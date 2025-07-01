@@ -5,9 +5,23 @@ I build scalable products, solve real problems, and learn emerging tech with a s
 
 ---
 
+## 🛠️ Interesting Projects
+
+### 1. 🌿 Brand Owner – Bamboware (Solo Founder)
+- Eco-friendly DTC brand reducing single-use plastic consumption
+- Over $1M in Amazon sales (2021–2024)
+- Handled everything: product design, supply chain, marketing, tax and accounting
+
+### 2. 🧠 Life Advice AI Web Service
+- RAG-powered AI service for life and spiritual guidance  
+- Full-stack app with Google Firebase and Vertex AI
+- **Tech**: React, Node.js, TypeScript, Firebase Functions, Firestore, Hosting  
+- [🌐 Live Site](https://path-wise-792e5.web.app/) | [🧑‍💻 Code Repo](https://github.com/yourusername/path-wise](https://github.com/2ndPrince/path-wise)
+
+
 ## 📄 Resume
 
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/youngseok-lee-78444a8a/)  
 - **PDF Resume**: [Download My Resume](https://your-resume-link.com)
 
 ---
@@ -52,28 +66,12 @@ I build scalable products, solve real problems, and learn emerging tech with a s
 
 ---
 
-## 🛠️ Side Projects
-
-### 1. 🌿 Brand Owner – Bamboware (Solo Founder)
-- Eco-friendly DTC brand reducing single-use plastic consumption
-- Over $1M in Amazon sales (2021–2024)
-- Handled everything: product design, supply chain, marketing, tax and accounting
-
-### 2. 🧠 Life Advice AI Web Service
-- RAG-powered AI service for life and spiritual guidance  
-- Full-stack app with Google Firebase and Vertex AI
-- **Tech**: React, Node.js, TypeScript, Firebase Functions, Firestore, Hosting  
-- [🌐 Live Site](https://your-app-url.com) | [🧑‍💻 Code Repo](https://github.com/yourusername/path-wise)
-
----
-
 ## 🎓 Education
 
 ### 🎓 University of Southern California (USC) — Master of Science (M.S.), Electrical Engineering  
 **2014 – 2016**  
 - Specialized in VLSI and RF system design  
 - Designed transistor-level circuits (e.g., CPU, OTA) using Cadence Virtuoso  
-- Activities: USC Judo Club  
 
 ### 🎓 Georgia Institute of Technology — Bachelor of Science (B.S.), Electrical Engineering  
 **Aug 2009 – Dec 2012**  
