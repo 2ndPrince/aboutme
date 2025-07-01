@@ -17,7 +17,7 @@ I build scalable products, solve real problems, and learn emerging tech with a s
 - RAG-powered AI for life and spiritual guidance using curated, domain-specific content
 - Built full-stack on Firebase with Vertex AI for context-aware, personalized responses
 - **Tech**: React, Node.js, TypeScript, Firebase Functions, Firestore, Hosting
-- [🌐 Live Site](https://path-wise-792e5.web.app/) | [🧑‍💻 Code Repo](https://github.com/yourusername/path-wise](https://github.com/2ndPrince/path-wise)
+- [🌐 Live Site](https://path-wise-792e5.web.app/) | [🧑‍💻 Code Repo](https://github.com/2ndPrince/path-wise)
 
 ## 📄 Resume
 
