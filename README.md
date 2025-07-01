@@ -11,6 +11,7 @@ I build scalable products, solve real problems, and learn emerging tech with a s
 - Eco-friendly DTC brand reducing single-use plastic consumption
 - Over $1M in Amazon sales (2021–2024)
 - Handled everything: product design, supply chain, marketing, tax and accounting
+- [Amazon Store Link](https://www.amazon.com/stores/Bamboware/page/DE8FDA88-4D2B-46B6-8799-CD03972AE112) | [Brand Website](https://www.bamboware.com)
 
 ### 2. 🧠 Life Advice AI Web Service – PathWise
 - RAG-powered AI for life and spiritual guidance using curated, domain-specific content
